@@ -1,6 +1,8 @@
 ## Download File 
 Taruh didalam 1 folder
 
+https://github.com/mregha/Armbian-Wifi/releases
+
 ### Untuk Wifi HG680p Armbian
 sudo dpkg -i wlan-black.deb
 
